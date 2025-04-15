@@ -1,6 +1,6 @@
 # Remote IT Support Toolkit
 
-A collection of Python scripts for common IT support tasks such as user management, system diagnostics, log collection, and cleanup.
+A Python-based toolkit that automates essential IT support tasks including user creation, system diagnostics, log collection, and cleanup. Designed for hybrid and remote environments to streamline helpdesk operations.
 
 ## Scripts
 
